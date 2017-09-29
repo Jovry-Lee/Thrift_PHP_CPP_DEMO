@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/php_cpp_demo.run.dir/php_cpp_demo_types.cpp.o CMakeFiles/php_cpp_demo.run.dir/PhpCppService.cpp.o CMakeFiles/php_cpp_demo.run.dir/php_cpp_demo_constants.cpp.o CMakeFiles/php_cpp_demo.run.dir/Service.cpp.o  -o php_cpp_demo.run -rdynamic -lthrift 

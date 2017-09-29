@@ -1,0 +1,3 @@
+/home/cdyf/tutorial/Thrift_Demo/cpp/build/CMakeFiles/edit_cache.dir
+/home/cdyf/tutorial/Thrift_Demo/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/cdyf/tutorial/Thrift_Demo/cpp/build/CMakeFiles/php_cpp_demo.run.dir
